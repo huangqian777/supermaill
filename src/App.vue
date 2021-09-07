@@ -1,5 +1,5 @@
 <template>
-  <h2>welcome to supermall</h2>
+  <h2>Hello supermall</h2>
 </template>
 
 <script>
